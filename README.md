@@ -39,7 +39,7 @@ Interactive explainer: drag the weights, watch the decision boundary move, and s
 </tr>
 </table>
 
-**Also:** [RL](https://github.com/liiiaamm/RL) (dynamic programming, Q-learning and SARSA) · [GraphNav](https://github.com/liiiaamm/GraphNav) (Dijkstra on Madrid's street graph) · [RSA Lab](https://github.com/liiiaamm/RSA-Lab) (number theory and RSA from scratch) · [Hologram Lab](https://github.com/liiiaamm/Hologram_AugmentedReality) (OpenCV augmented reality)
+**Also:** [Reinforcement Learning](https://github.com/liiiaamm/reinforcement-learning) (dynamic programming, SARSA vs Q-learning) · [GraphNav](https://github.com/liiiaamm/GraphNav) (Dijkstra on Madrid's street graph) · [Number Theory Lab](https://github.com/liiiaamm/number-theory-lab) (modular arithmetic, then RSA built and broken) · [Hologram Lab](https://github.com/liiiaamm/Hologram_AugmentedReality) (OpenCV augmented reality)
 
 ## Toolkit
 
