@@ -4,7 +4,7 @@ Final-year **Mathematical Engineering & AI** student at Comillas ICAI, Madrid. I
 
 Previously at **Kearney** (Graph RAG and multi-agent systems for industrial fault diagnosis) and **Finaipro** (deep learning for financial time series). Currently writing my bachelor’s thesis on time-series foundation models (TimesFM) for energy forecasting, in collaboration with the **Barcelona Supercomputing Center (BSC)**.
 
-[LinkedIn](https://www.linkedin.com/in/liamesgueva/) · [liam.esgon@gmail.com](mailto:liam.esgon@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/liamesgueva/) · [egsn.liam@gmail.com](mailto:egsn.liam@gmail.com)
 
 ## Projects
 
