@@ -39,8 +39,8 @@ Most of these run in the browser. Click a card to open it.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/liiiaamm/autonomous-navigation-ros2"><img src="assets/card-robot.png" alt="Autonomous navigation on ROS 2"></a>
-<p align="center"><a href="https://github.com/liiiaamm/autonomous-navigation-ros2"><b>Code</b></a></p>
+<a href="https://liiiaamm.github.io/autonomous-navigation-ros2/"><img src="assets/card-robot.png" alt="Autonomous navigation on ROS 2"></a>
+<p align="center"><a href="https://liiiaamm.github.io/autonomous-navigation-ros2/"><b>Try it</b></a> · <a href="https://github.com/liiiaamm/autonomous-navigation-ros2">Code</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/liiiaamm/reinforcement-learning"><img src="assets/card-rl.png" alt="Jump to the goal: reinforcement learning"></a>
