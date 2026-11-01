@@ -49,7 +49,7 @@ Most of these run in the browser. Click a card to open it.
 </tr>
 </table>
 
-**Also:** [ADAQuant](https://liiiaamm.github.io/adaquant/) (Kafka and AWS Glue streaming for Cardano, live demo) · [DassIt](https://liiiaamm.github.io/dassit/) (self-hosted Llama chatbot on Django and Next.js, glass-box demo) · [Number Theory Lab](https://github.com/liiiaamm/number-theory-lab) (modular arithmetic from scratch, then RSA built and broken) · [Hologram Lab](https://github.com/liiiaamm/Hologram_AugmentedReality) (OpenCV augmented reality). A second-brain system for Obsidian, with agents and an LLM-readable wiki, is being cleaned up for release.
+**Also:** [Second brain](https://liiiaamm.github.io/second-brain/) (multi-agent lecture-to-notes system with a write gate and an independent auditor, replay demo) · [ADAQuant](https://liiiaamm.github.io/adaquant/) (Kafka and AWS Glue streaming for Cardano, live demo) · [DassIt](https://liiiaamm.github.io/dassit/) (self-hosted Llama chatbot on Django and Next.js, glass-box demo) · [Number Theory Lab](https://github.com/liiiaamm/number-theory-lab) (modular arithmetic from scratch, then RSA built and broken) · [Hologram Lab](https://github.com/liiiaamm/Hologram_AugmentedReality) (OpenCV augmented reality).
 
 ## Toolkit
 
